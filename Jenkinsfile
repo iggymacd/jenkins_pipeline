@@ -1,0 +1,1 @@
+library identifier: 'elm tool', retriever: modernSCM(scm: [$class: 'GitSCMSource', credentialsId: '', remote: 'https://github.com/iggymacd/elm', traits: [gitBranchDiscovery()]], libraryPath: '/elm/')
